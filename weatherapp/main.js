@@ -1,4 +1,4 @@
-const appid = 'a530432477608864040eb3e0b87b1609';
+const appid = '#';
 const dateElement = document.getElementById("date");
 const options = {weekday : "long", month : "short", day : "numeric"};
 var today = new Date();
